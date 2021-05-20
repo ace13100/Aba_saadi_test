@@ -26,7 +26,7 @@ SET libGre = 'genre2'
 WHERE idGre = 'genre';
 
 SELECT * 
-FROM genre
+FROM genre;
 -- delete avec les FK
 
 DELETE 
